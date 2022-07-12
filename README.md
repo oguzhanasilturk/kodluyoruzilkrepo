@@ -29,8 +29,3 @@ code .
 # License
 
 [MİT](https://choosealicense.com/licenses/mit/)
-
-
-
-
-
