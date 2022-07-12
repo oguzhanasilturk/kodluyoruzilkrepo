@@ -14,8 +14,10 @@
 
 * Linux için:
 
+```
 cd kodluyoruzilkrepo
 code .
+```
 
 # Contributing
 
@@ -24,6 +26,7 @@ code .
 # License
 
 [MİT] (https://choosealicense.com/licenses/mit/)
+
 
 
 
